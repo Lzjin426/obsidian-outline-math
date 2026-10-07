@@ -1,0 +1,10 @@
+{
+  "id": "outline-math",
+  "name": "Outline Math",
+  "version": "1.0.3",
+  "minAppVersion": "1.14.4",
+  "description": "Render LaTeX formulas in the built-in Outline pane without changing your notes.",
+  "author": "Fullstop",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/Lzjin426"
+}
